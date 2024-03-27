@@ -1,0 +1,1 @@
+npx @rtk-query/codegen-openapi content_menu.js
